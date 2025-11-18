@@ -10,6 +10,6 @@ chapter 1
 
 4.suppose A = {{1, 2}, {3, 4, 5, 6}, {7}} and B = {X ∈ A : |X| < 3}. The elements of A are sets (not numbers), so the |X| in the expression for B must mean cardinality. Therefore B = {{1, 2}, {7}}.
 
-#Example: Describetheset A={7a+3b : a,b∈Z}.  Question: How to express it in integers?
+#Example: Describe the set A={7a+3b : a,b∈Z}.  Question: How to express it in integers?
 
 If n is any integer, then n = 7n + 3(−2n),(menas n = n), so n = 7a + 3b where a = n and b = −2n.
