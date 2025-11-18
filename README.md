@@ -13,3 +13,6 @@ chapter 1
 #Example: Describe the set A={7a+3b : a,b∈Z}.  Question: How to express it in integers?
 
 If n is any integer, then n = 7n + 3(−2n),(menas n = n), so n = 7a + 3b where a = n and b = −2n.
+
+5.The rational numbers: Q={x : x= m/n, where m,n∈Z and n≠0}
+
