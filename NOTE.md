@@ -16,3 +16,4 @@ If n is any integer, then n = 7n + 3(−2n),(menas n = n), so n = 7a + 3b where 
 
 5.The rational numbers: Q={x : x= m/n, where m,n∈Z and n≠0}
 
+6.{0,1}×{2,1} = {(0,2),(0,1),(1,2),(1,1)}
