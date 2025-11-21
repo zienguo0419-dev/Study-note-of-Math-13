@@ -21,3 +21,5 @@ If n is any integer, then n = 7n + 3(−2n),(menas n = n), so n = 7a + 3b where 
 7.Cartesian product {∅}X{0,∅}X{0,1} = {(∅,0,0).......{∅,∅,1}}  It is a set of ordered pairs.
 
 8.If set {A} ⊆ {B}, A ∈ B
+
+9.P(∅)={∅}  P({∅})={{∅},∅}  still follow the rules  |P(A)|=2^|A|
