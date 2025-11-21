@@ -1,5 +1,5 @@
 # Study-note-of-Math-13
-# ≠  <  >  ≤  ≥  ≮  ≯  ≰  ≱  ∅ ∈
+# ≠  <  >  ≤  ≥  ≮  ≯  ≰  ≱  ∅ ∈ ⊆  ̸⊆
 chapter 1
 
 1.Consider E = {1, {2, 3}, {2, 4}}, which has three elements: the number 1, the set {2,3} and the set {2,4}. Thus 1 ∈ E and {2,3} ∈ E and {2,4}∈E. But note that 2∉E, 3∉E and 4∉E.
@@ -19,3 +19,5 @@ If n is any integer, then n = 7n + 3(−2n),(menas n = n), so n = 7a + 3b where 
 6.{0,1}×{2,1} = {(0,2),(0,1),(1,2),(1,1)}
 
 7.Cartesian product {∅}X{0,∅}X{0,1} = {(∅,0,0).......{∅,∅,1}}  It is a set of ordered pairs.
+
+8.If set {A} ⊆ {B}, A ∈ B
